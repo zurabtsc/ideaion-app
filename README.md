@@ -1,4 +1,4 @@
-# fu_ideation
+# Ideation-App
 
 Development of this project started during the work on my bachelor's thesis.
 For questons feel free contact me.
