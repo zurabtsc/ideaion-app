@@ -1,0 +1,1 @@
+To setup Firebase plugins with your personal account please follow instructions on https://firebase.flutter.dev/docs/overview
